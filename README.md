@@ -1,2 +1,3 @@
-# cs97
-CulinaryAI
+# culinaryAI
+
+![image](Logo.png)
